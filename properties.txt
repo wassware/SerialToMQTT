@@ -1,0 +1,8 @@
+{
+"wifissid":"<wifi-ssid>",
+"wifipwd":"<wifi-password>",
+"mqttserver":"mqqt-server",
+"mqttclient":"<mqqt-client-name>",
+"mqttuser":"<mqqt-username>",
+"mqttpwd":"<mqqt-passowrd>"
+}
